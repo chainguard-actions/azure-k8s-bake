@@ -1,0 +1,7 @@
+{
+  "owner": "azure",
+  "name": "k8s-bake",
+  "visibility": "internal",
+  "description": "Use this action to bake manifest file to be used for deployments using helm, kustomize or kompose",
+  "block_publish": false
+}
