@@ -8,7 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v3.0.4 | [`v3.0.4`](https://github.com/chainguard-actions/azure--k8s-bake/tree/v3.0.4) | — |
+| v3.0.4 | [`v3.0.4`](https://github.com/chainguard-actions/azure-k8s-bake/tree/v3.0.4) | — |
 
 ## Privacy
 
